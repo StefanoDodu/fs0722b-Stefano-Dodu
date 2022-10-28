@@ -1,0 +1,22 @@
+/* Your styles here */
+#logo{
+    
+    display: block;
+    margin: 0 auto 25px auto;
+}
+#section_1{
+    background-image: url(../images/banner.jpg);
+    text-align: center;
+    margin: 0 auto;
+
+}
+#pulsante{
+    display: block;
+    height: 25px;
+}
+#section_3{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
