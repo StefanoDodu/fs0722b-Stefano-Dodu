@@ -31,7 +31,7 @@ console.log(12+20);
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
-let x = 12;
+var x = 12;
 console.log(x);
 
 /* ESERCIZIO 5
